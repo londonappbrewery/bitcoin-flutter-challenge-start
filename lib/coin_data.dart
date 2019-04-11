@@ -30,6 +30,9 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
+const bitcoinAverageURL =
+    'https://apiv2.bitcoinaverage.com/indices/global/ticker';
+
 class CoinData {
   //TODO: Create your getCoinData() method here.
 }
