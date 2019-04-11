@@ -1,3 +1,5 @@
+//TODO: Add your imports here.
+
 const List<String> currenciesList = [
   'AUD',
   'BRL',
@@ -29,5 +31,5 @@ const List<String> cryptoList = [
 ];
 
 class CoinData {
-  //Create your getCoinData() method here.
+  //TODO: Create your getCoinData() method here.
 }
