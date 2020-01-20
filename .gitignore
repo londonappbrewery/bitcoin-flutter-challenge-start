@@ -43,6 +43,7 @@
 **/ios/**/*.pbxuser
 **/ios/**/*.perspectivev3
 **/ios/**/*sync/
+**/ios/Flutter/flutter_export_environment.sh
 **/ios/**/.sconsign.dblite
 **/ios/**/.tags*
 **/ios/**/.vagrant/
