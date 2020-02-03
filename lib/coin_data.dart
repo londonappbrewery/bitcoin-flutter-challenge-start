@@ -30,8 +30,8 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
-const bitcoinAverageURL =
-    'https://apiv2.bitcoinaverage.com/indices/global/ticker';
+const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
+const apiKey = 'YOUR-API-KEY-HERE';
 
 class CoinData {
   //TODO: Create your getCoinData() method here.
